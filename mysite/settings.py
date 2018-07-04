@@ -25,7 +25,7 @@ SECRET_KEY = '1jn2=)2$s0x+s-pn25narl%@yc$nqcs@-ui(ca5(%9csay4-)k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'solomiya.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'solomiyalexis.pythonanywhere.com']
 
 
 # Application definition
@@ -104,7 +104,7 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/1.11/topics/i18n/
 
-LANGUAGE_CODE = 'en-en'
+LANGUAGE_CODE = 'ru-ru'
 
 TIME_ZONE = 'Europe/Kiev'
 
